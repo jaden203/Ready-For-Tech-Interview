@@ -23,4 +23,4 @@ LRU Cache 구현은 Doubly Linked List를 통해 구현한다. head에 가까운
 삽입된 데이터를 사용하면 head로 옮겨 우선순위를 높이게 되고, 삭제될 우선순위에서 멀어지게 된다.
 
 
-[<출처>](https://github.com/WooVictory/Ready-For-Tech-Interview)
+- [<출처>](https://github.com/WooVictory/Ready-For-Tech-Interview)
