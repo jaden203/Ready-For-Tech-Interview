@@ -84,5 +84,4 @@ private static void print(int[] arr) {
 - 교환 횟수가 많다.
 - 역순배열을 정렬할 때, 가장 느리다.
 
-
-[<출처>](https://github.com/WooVictory/Ready-For-Tech-Interview)
+- [<출처>](https://github.com/WooVictory/Ready-For-Tech-Interview)
