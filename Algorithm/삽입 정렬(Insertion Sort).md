@@ -89,3 +89,5 @@ private static void sort(int[] arr) {
 - 비교적 많은 수들의 이동을 포함한다.
 - 비교할 수가 많고 크기가 클 경우에 적합하지 않다.(배열의 길이가 길어질수록 비효율적)
 - 평균과 최악의 시간 복잡도가 O(N^2)이므로 비효율적이다.
+
+  - [<출처>](https://github.com/WooVictory/Ready-For-Tech-Interview)
