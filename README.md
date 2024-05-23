@@ -1,38 +1,4 @@
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/39688690/119250278-eb9a7e00-bbd9-11eb-972e-795f3a6176f0.png" width="40%"/>
-</div>
 
-----
-
-<div align="center"> <h1> READY FOR TECH INTERVIEW </div>
-  
-  <div align="center"> 이 곳은 신입 혹은 주니어 개발자에게 필요한 지식을 정리하는 공간입니다. <br>
-    지식의 확장을 넘어서 기술 면접을 준비함에 있어서 도움이 되기를 바랍니다.<br>
-개인적인 공간이 아니라 여러분들과 함께 채워나갈 수 있기에,<br>issue와 Pull Request를 통해 이 레퍼지토리의 컨트리뷰터가 되어주세요. <br>
-내용이 마음에 들거나 유용하다면 Star를 한번씩 눌러주시면 감사하겠습니다. 🙏  </div>
-
-----
-
-<div align=center>
-
-[![SINCE](https://img.shields.io/badge/Since-2020.01.26-red)](https://github.com/WooVictory/Ready-For-Tech-Interview)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
-[![LICENSE](https://img.shields.io/badge/license-MIT-yellowgreen)](https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/LICENSE)
-
-</div>
-
-   <br><br>
-## 👨‍👩‍👦‍👦 Contributer
-
-| <img src="https://user-images.githubusercontent.com/39688690/119251628-81d2a200-bbe2-11eb-85ad-868a3f28a4c4.png" width="100%"> | <img src="https://user-images.githubusercontent.com/39688690/119251673-b9d9e500-bbe2-11eb-83ff-655027ef6d14.png" width="100%"> | <img src="https://user-images.githubusercontent.com/39688690/119251692-d249ff80-bbe2-11eb-908f-1057cb44b71d.png" width="100%"> | <img src="https://user-images.githubusercontent.com/39688690/119251747-1a692200-bbe3-11eb-909f-962fc6d2f317.png" width="100%"> | <img src="https://user-images.githubusercontent.com/39688690/119251760-2f45b580-bbe3-11eb-8d5d-aa806f5c4438.png" width="100%"> | <img src="https://user-images.githubusercontent.com/39688690/119251766-366cc380-bbe3-11eb-914a-a5416e414c0a.png" width="100%"> |
-| ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| [huhsay](https://github.com/huhsay)                                                                                            | [hzoou](https://github.com/hzoou)                                                                                              | [woung717](https://github.com/woung717)                                                                                        | [Bellroute](https://github.com/Bellroute)                                                                                      | [ksshlee](https://github.com/ksshlee)                                                                                          | [goodGid](https://github.com/goodGid)                                                                                          |
-| <img src="https://user-images.githubusercontent.com/39688690/119251750-2359f380-bbe3-11eb-9e04-996884842a3c.png" width="100%"> | <img src="https://user-images.githubusercontent.com/39688690/119252204-e2171300-bbe5-11eb-96bc-f0bb8b7a689b.png" width="100%"> | <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/37958836?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d">             |
-| [kommadot](https://github.com/kommadot)                                                                                        | [jsh-me](https://github.com/jsh-me)                                                                                            | [devsungmin](https://github.com/devsungmin)                                                                                    |
-
-  
-   <br><br>
-  
 # 1. Interview
 
 ## Common
