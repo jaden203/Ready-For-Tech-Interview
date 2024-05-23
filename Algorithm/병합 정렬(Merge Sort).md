@@ -128,4 +128,4 @@ LinkedList는 삽입과 삭제 연산에서는 유용하지만, 접근 연산에
 - 최선 : O(N logN)
 
 
-[출처](https://github.com/WooVictory/Ready-For-Tech-Interview)
+- [<출처>](https://github.com/WooVictory/Ready-For-Tech-Interview)
